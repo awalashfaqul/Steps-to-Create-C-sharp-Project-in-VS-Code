@@ -125,4 +125,12 @@ dotnet build
 
 By following these steps, we can set up and run a C# project in Visual Studio Code. This setup allows us to take full advantage of the .NET SDK and the powerful features provided by VS Code, such as IntelliSense, debugging, and extensions.
 
-Happy coding! If you run into any issues or have questions, feel free to reach out for help.
+## Contact
+
+Happy coding! If you run into any issues or have questions, feel free to reach out for help. For any questions or feedback, please contact:
+
+- **Name**: [Ashfaqul Awal]
+- **Email**: [ashfaq.awal@gmail.com]
+
+---
+
